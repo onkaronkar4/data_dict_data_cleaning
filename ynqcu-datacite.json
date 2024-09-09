@@ -1,0 +1,95 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/ynqcu",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Crystal Lewis",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/in/crystal-lewis-922b4193",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2023-11-04",
+      "dateType": "Created"
+    },
+    {
+      "date": "2024-08-03",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Example fields to include in a data dictionary, used to describe the contents of a dataset.",
+      "descriptionType": "Abstract",
+      "lang": "eng"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/ynqcu",
+    "identifierType": "URL"
+  },
+  "language": "eng",
+  "publicationYear": "2023",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://osf.io/e5g6t",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2023",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/e5g6t",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Other",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "lang": "eng",
+          "title": "Data Management in Large-Scale Education Research Supplemental Materials"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "File",
+    "resourceTypeGeneral": "Other"
+  },
+  "rightsList": [],
+  "subjects": [],
+  "titles": [
+    {
+      "lang": "eng",
+      "title": "Data Dictionary Template"
+    }
+  ]
+}

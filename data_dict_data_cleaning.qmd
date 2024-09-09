@@ -1,0 +1,17 @@
+---
+title: "data_dict_data_cleaning"
+format: html
+editor: visual
+---
+
+# [Four simple ways to integrate your data dictionary into your data cleaning process](https://cghlewis.com/blog/dict_clean/)
+
+```{r}
+library(readxl)
+library(tidyverse)
+library(labelled)
+
+survey <- read_csv("survey_raw.csv")
+
+dict <- read_excel("dict.xlsx")
+```
